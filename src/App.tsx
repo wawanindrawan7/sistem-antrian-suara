@@ -301,7 +301,7 @@ export default function App() {
 
       {/* Subtle bottom trademark footer */}
       <footer className="w-full max-w-7xl mx-auto border-t border-slate-900 py-6 text-center text-xs text-slate-500 font-medium">
-        <p>&copy; {new Date().getFullYear()} SISTEM ANTRIAN VOKALIS. Crafted in Google AI Studio.</p>
+        <p>&copy; {new Date().getFullYear()} SISTEM ANTRIAN. Crafted in Google AI Studio.</p>
       </footer>
 
     </div>
