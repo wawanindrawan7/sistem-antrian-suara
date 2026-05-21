@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Antrian Suara",
+  "description": "Sistem antrian pintar dengan fitur panggilan suara otomatis (Text-to-Speech), halaman admin per loket, pembuat tiket, dan monitor pengunjung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
